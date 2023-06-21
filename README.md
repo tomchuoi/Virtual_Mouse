@@ -4,7 +4,7 @@ This project demonstrates a virtual mouse control system using hand tracking wit
 
 ## Features
 
-- Tracks the user's hand using the webcam feed.
+- Tracks the user's hand using the webcam.
 - Moves the mouse cursor based on the user's index finger position.
 - Performs left-click when the user's index and middle fingers are raised and close together.
 - Supports real-time display of the webcam feed with visual feedback.
