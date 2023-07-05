@@ -15,3 +15,8 @@ This project demonstrates a virtual mouse control system using hand tracking wit
 - OpenCV
 - Mediapipe
 - PyAutoGUI
+
+## How to use:
+- To move the mouse cursor, raise your index finger in front of your webcam. The program will automatically track your index finger's movement and reflect it as cursor movement on the screen.
+- To click the mouse, raise both your middle and index fingers and make them touch each other, that's all.
+
